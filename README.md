@@ -12,9 +12,9 @@ Here are the technologies used in this project:
 - Redpanda Console
 - Gradle
 
-  ## Architecture
+## Architecture
 
-  ![Arquitetura Proposta](https://github.com/dev-Pedrod/saga-pattern/assets/86006066/68cbd65e-4ab7-4a28-98b5-e504bb0350d0)
+![Arquitetura Proposta](https://github.com/dev-Pedrod/saga-pattern/assets/86006066/68cbd65e-4ab7-4a28-98b5-e504bb0350d0)
 
 ## Run
 Just run the file [build.py](https://github.com/dev-Pedrod/saga-pattern/blob/master/build.py). For that, you need to have Python 3 installed.
